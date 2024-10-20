@@ -1,7 +1,3 @@
-/*Crea una función que elimine los espacios en blanco de los extremos de una cadena
-usando trim().
-Ejemplo: " Hola mundo " → "Hola mundo" */
-
 function eliminarEspaciosExtremos(cadena) {
     return cadena.trim();
 }
