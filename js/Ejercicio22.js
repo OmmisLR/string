@@ -1,6 +1,3 @@
-/*Escribe una función que convierta una frase a formato camelCase.
-Ejemplo: "hola mundo en javascript" → "holaMundoEnJavascript" */
-
 function convertirACamelCase() {
     var frase = prompt("Introduce una frase:");
     var palabras = frase.split(" ");
