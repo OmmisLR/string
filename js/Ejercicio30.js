@@ -1,7 +1,3 @@
-/*Escribe una función que cuente la frecuencia de cada carácter en una cadena y
-devuelva un objeto con los resultados.
-Ejemplo: "abbccc" → {a: 1, b: 2, c: 3} */
-
 function contarFrecuencia() {
     var cadena = prompt("Introduce una cadena:");
     var frecuencia = {};
