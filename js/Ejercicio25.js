@@ -1,7 +1,3 @@
-/*Crea una función que elimine todos los caracteres especiales (como @, #, !) de una
-cadena.
-Ejemplo: "Hola@mundo!" → "Holamundo" */
-
 function eliminarCaracteresEspeciales() {
     var cadena = prompt("Introduce una cadena de texto:");
     var cadenaLimpia = ""; 
