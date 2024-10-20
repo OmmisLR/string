@@ -1,6 +1,3 @@
-/*Escribe una función que verifique si una cadena contiene solo números.
-Ejemplo: "12345" → true */
-
 function verificarSoloNumeros() {
     var cadena = prompt("Introduce una cadena:");
     var soloNumeros = true;
