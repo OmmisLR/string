@@ -1,6 +1,3 @@
-/*Escribe una función que elimine todas las vocales de una cadena.
-Ejemplo: "javascript" → "jvscrpt" */
-
 function EliminarVocales() {
     var cadena = prompt("Introduce una cadena de texto:");
     var nuevaCadena = "";
