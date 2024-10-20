@@ -1,7 +1,3 @@
-/*Escribe una función que reemplace una palabra específica en una cadena con otra
-palabra usando replace().
-Ejemplo: "Hola mundo", "mundo", "amigo" → "Hola amigo" */
-
 function reemplace(cadena, palabra, nuevaPalabra) {
     return cadena.replace(new RegExp(palabra, 'g'), nuevaPalabra);
 }
