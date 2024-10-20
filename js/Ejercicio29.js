@@ -1,6 +1,3 @@
-/*Crea una función que elimine las letras consecutivas repetidas en una cadena.
-Ejemplo: "aabbccdde" → "abcde" */
-
 function eliminarRepetidos() {
     var cadena = prompt("Introduce una cadena:");
     var resultado = "";
