@@ -1,6 +1,3 @@
-/*Escribe una función que divida una cadena en un array de palabras usando split().
-Ejemplo: "Hola mundo" → ["Hola", "mundo"] */
-
 const dividirCadenaEnPalabras = () => {
     let cadena = prompt("Introduce una cadena de texto:");
     let palabras = cadena.split(" "); 
