@@ -1,7 +1,3 @@
-/*Crea una función que repita una cadena un número específico de veces usando
-repeat().
-Ejemplo: "Ho", 3 → "HoHoHo" */
-
 function repetirCadena() {
     let cadena = prompt("Introduce la cadena que deseas repetir:");
     let repeticiones = prompt("Introduce el número de veces que deseas repetir la cadena:");
