@@ -1,7 +1,3 @@
-/*Crea una función que convierta una cadena de texto en mayúsculas usando el
-método toUpperCase().
-Ejemplo: "Hola" → "HOLA" */
-
 function convertirMayusculas(cadena) {
     return cadena.toUpperCase();
 }
