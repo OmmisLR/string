@@ -1,6 +1,3 @@
-/*Escribe una función que reciba una cadena de texto y devuelva su longitud.
-Ejemplo: "Hola" → 4 */
-
 function Longitud(cadena) {
     return cadena.length;
 }
