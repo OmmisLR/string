@@ -1,6 +1,3 @@
-/*Escribe una función que encuentre la palabra más larga en una cadena.
-Ejemplo: "Aprender JavaScript es emocionante" → "emocionante" */
-
 function encontrarPalabraMasLarga() {
     var cadena = prompt("Introduce una cadena de texto:");
     var palabras = cadena.split(" ");
