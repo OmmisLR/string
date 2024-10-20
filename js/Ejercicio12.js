@@ -1,7 +1,3 @@
-/*Escribe una función que determine si una palabra es un palíndromo (se lee igual al
-revés).
-Ejemplo: "ana" → true */
-
 function esPalindromo(palabra) {
 
     var palabraMinuscula = palabra.toLowerCase();
