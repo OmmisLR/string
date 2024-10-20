@@ -1,6 +1,3 @@
-/*Crea una función que convierta una cadena a formato snake_case.
-Ejemplo: "Hola Mundo" → "hola_mundo" */
-
 function convertirASnakeCase() {
     var frase = prompt("Introduce una frase:");
     var palabras = frase.split(" ");
