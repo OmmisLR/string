@@ -1,7 +1,3 @@
-/*Escribe una función que devuelva el carácter en una posición específica de una
-cadena usando charAt().
-Ejemplo: "JavaScript", 0 → "J" */
-
 const obtenerCaracter = () => {
     let cadena = prompt("Introduce una cadena:"); 
     let posicion = parseInt(prompt("Introduce la posición del carácter que quieres obtener (empezando desde 0):"));
