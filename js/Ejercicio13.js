@@ -1,6 +1,3 @@
-/*Crea una función que reciba dos cadenas y las concatene usando concat() o +.
-Ejemplo: "Hola", "mundo" → "Hola mundo" */
-
 function concatenarCadenas(cadena1, cadena2) {
     let resultado = cadena1.concat(" ", cadena2);
     return resultado;
